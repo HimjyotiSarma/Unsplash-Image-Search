@@ -1,7 +1,7 @@
 import Gallery from './Gallery'
 import SearchForm from './SearchForm'
 import ThemeToggle from './ThemeToggle'
-import Pagination from './pagination'
+import Pagination from './Pagination'
 
 const App = () => {
   return (
